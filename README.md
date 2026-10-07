@@ -1,5 +1,9 @@
 # r34-dlp
 
+## Disclaimer
+
+> ⚠️ **100% AI-generated slop:** This code was entirely architected, written, and refactored by AI agents under the supervision of a Supreme Femboy. Use at your own risk.
+
 Rule34.xxx image and video downloader with resume capability.
 
 ## Features
